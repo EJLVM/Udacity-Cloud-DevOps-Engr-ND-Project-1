@@ -4,7 +4,7 @@ Deploy a static website to AWS using S3, IAM and CloudFront.
 
 ## CloudFront endpoint
 
-![d1zoil7ilk08jn.cloudfront.net](d1zoil7ilk08jn.cloudfront.net)
+[d1zoil7ilk08jn.cloudfront.net](d1zoil7ilk08jn.cloudfront.net)
 
 ## Steps / Proof
 
