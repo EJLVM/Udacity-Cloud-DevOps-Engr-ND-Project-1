@@ -2,9 +2,6 @@
 
 Deploy a static website to AWS using S3, IAM and CloudFront.
 
-## CloudFront endpoint
-
-[d1zoil7ilk08jn.cloudfront.net](d1zoil7ilk08jn.cloudfront.net)
 
 ## Steps / Proof
 
@@ -27,3 +24,8 @@ S3 bucket is publicly accessible
 CloudFront configured to retrieve and distribute website files
 
 ![CloudFront configured to retrieve and distribute website files screen shot](img/05-cloudfront-distri.png "CloudFront configured to retrieve and distribute website files screen shot")
+
+
+## CloudFront endpoint
+
+CloudFront Endpoint: [d1zoil7ilk08jn.cloudfront.net](d1zoil7ilk08jn.cloudfront.net).
